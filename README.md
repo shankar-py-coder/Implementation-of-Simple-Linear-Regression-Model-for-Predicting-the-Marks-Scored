@@ -8,10 +8,10 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import required libraries and load the dataset from the CSV file
+2. Separate the dataset into independent variable (Experience) and dependent variable (Salary).
+3. Create the Linear Regression model and train it using the given data.
+4. Predict the salary values, display slope and intercept, and plot the regression line with the data points. 
 
 ## Program:
 ```
